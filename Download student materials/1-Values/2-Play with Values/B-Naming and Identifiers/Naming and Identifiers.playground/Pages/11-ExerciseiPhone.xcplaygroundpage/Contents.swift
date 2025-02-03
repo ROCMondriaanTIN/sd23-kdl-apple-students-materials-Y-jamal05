@@ -15,7 +15,8 @@
  - callout(Exercise): How many minutes of video will it take to fill the phone?\
  _Hint_: Do all of your calculations in megabytes (MB).
  */
- 
+ // 8000MB - 3000MB = 5000MB
+//5000MB % 150MB = 34 minutes
 
 
 /*:

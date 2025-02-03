@@ -28,6 +28,17 @@ Add your code below. To help you get started, the constant `numberOfTickets` is 
  */
 let numberOfTickets = 150
 
+let ticketPrice: Int = 10
+
+let roomRentalFee: Int = 1000
+
+let posterCost: Int = 40
+
+let totalTicketValue = numberOfTickets * ticketPrice
+
+let totalExpenses = roomRentalFee + posterCost
+
+let totalIncomeOfShow = totalTicketValue - totalExpenses
 /*:
 [Previous](@previous)  |  page 10 of 14  |  [Next: Exercise: Lottery Tickets](@next)
  */

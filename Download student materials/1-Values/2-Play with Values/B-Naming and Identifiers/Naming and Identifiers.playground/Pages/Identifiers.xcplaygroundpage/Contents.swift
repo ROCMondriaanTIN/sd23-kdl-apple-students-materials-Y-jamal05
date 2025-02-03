@@ -14,9 +14,15 @@ let numberOfTurtles = 2 + 1
 
 let numberOfHamsters = 1 + 1
 
-let totalNumberOfAnimals = numberOfDogs + numberOfCats + numberOfTurtles + numberOfHamsters
+let numberOfPig = 1
 
-let totalNumberOfMammals = numberOfDogs + numberOfCats + numberOfHamsters
+let numberOfFish = 1
+
+let numberOfSnakes = 1
+
+let totalNumberOfAnimals = numberOfDogs + numberOfCats + numberOfTurtles + numberOfHamsters + numberOfPig + numberOfFish + numberOfSnakes
+
+let totalNumberOfMammals = numberOfDogs + numberOfCats + numberOfHamsters + numberOfPig
 
 /*:
  - Experiment: There are even more changes in the number of pets expected at the pet show.\
