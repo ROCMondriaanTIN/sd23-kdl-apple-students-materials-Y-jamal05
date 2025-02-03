@@ -23,20 +23,22 @@ The asterisk `*` is the multiplication operator:
 //: And it performs same-precedence operations in order from left to right:
 120 / 6 * 2
 //: There's also a special `%` operator to calculate the remainder of a division. (You'll learn more about practical uses of the remainder, or *modulo*, operator later in this course.)
-12 % 5
+1245 % 54
 //: The remainder operator observes the same precedence as multiplication and division.
-12 % 5 + 4 / 2
+122 % 12 + 4 / 22
 //: For grouping, use parentheses `( )`, which take precedence over all other operators:
-(8 + 2) * 5
-120 / (6 * 2)
-(300 + 500 + 400) / (6 / 2)
+(8.21 + 2) * 5
+1230 / (612 * 2)
+(300 + 5020 + 400) / (61 / 2)
 /*:
  - Experiment: 
 Practice using the playground like a calculator.
 Edit some of the existing expressions and add a few of your own.
 Notice that every time you make a change the results are updated in the sidebar.
  */
- 
+ 328 % 21
+1293 * 2 % 3
+( 3 * 2 + 6) * 2
 
 /*:
 Next, learn how programmers can leave notes in code.
